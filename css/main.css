@@ -36,20 +36,17 @@ p {
   color: #fff
 }
 
-.caption {
-  padding: 1 5rem;
+figure {
+  margin: 0;
+  display: block;
+  max-width: 100%;
+}
+
+figcaption {
+  padding: 1, 5rem;
   background-color: rgba(0, 0, 0, .5);
   border-radius: 6px;
   position: absolute;
   max-width: 15em;
-  top: 110px;
-  left: 10px;
-}
-
-.caption-2 {
-  top: 320px;
-}
-
-.caption-3 {
-  top: 530px;
+  left: .5rem;
 }
