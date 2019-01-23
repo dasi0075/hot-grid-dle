@@ -43,7 +43,7 @@ figure {
 }
 
 figcaption {
-  padding: 1, 5rem;
+  padding: 1rem;
   background-color: rgba(0, 0, 0, .5);
   border-radius: 6px;
   position: absolute;
