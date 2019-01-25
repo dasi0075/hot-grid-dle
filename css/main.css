@@ -38,15 +38,17 @@ p {
 
 figure {
   margin: 0;
-  display: block;
+  position: relative;
   max-width: 100%;
 }
 
 figcaption {
-  padding: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   background-color: rgba(0, 0, 0, .5);
   border-radius: 6px;
   position: absolute;
   max-width: 15em;
   left: .5rem;
+  bottom: .5rem;
 }
